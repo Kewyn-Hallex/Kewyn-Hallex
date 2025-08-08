@@ -1,12 +1,18 @@
-# 👩🏻‍💻 Kewyn Almeida
-
-**`Desenvolvedor Front-End`**
-
-My name is Kewyn Halex, I'm 19 years old, and I'm from Pará. I've been passionate about technology since a young age, and this passion led me to pursue a degree in Systems Development. I am always looking for ways to use technology as a tool for transformation, whether in social, educational, or professional initiatives. Currently, I share my learnings and projects here on GitHub—feel free to explore and contribute!
+<h1 align="center">Welcome 👋 I'm Kewyn</h1>
+<p align="center">💻 Front-end Developer | 🤖 Automation Enthusiast | 🌐 Web & API Integrator</p>
 
 ---
 
-### 🤖 Languages and Technologies
+## 🚀 About Me
+
+- 👨‍💻 Enthusiast for technology, passionate about web development.
+- 🔌 Experienced in implementing Artificial Intelligence solutions automation, data analysis, and conversational          applications
+- 🧠 Always learning and experimenting with new technologies.
+- 🎯 Focused on clean code, performance, and impactful solutions.
+
+---
+
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -86,7 +92,7 @@ My name is Kewyn Halex, I'm 19 years old, and I'm from Pará. I've been passiona
 <br/>
 <br/>
 
-### 📊 statistics
+### 📊 Estatísticas
 
 <p>
   <img 
