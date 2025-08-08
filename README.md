@@ -87,16 +87,16 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
           
-  <h1 align="center">Redes Sociais</h1>
-  <a href="mailto:hallexkewyn@gmail.com">
-    <img height="30" width="40" src="gmail.svg" alt="Gmail">
+<h2 align="center">🌐 Redes Sociais</h2>
+
+<p align="center">
+  <a href="mailto:hallexkewyn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/kewyn-almeida">
-    <img height="30" width="40" src="linkedin.svg" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kewyn-almeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://quantumnet.gercom.ufpa.br/">
-    <img height="30" width="40" src="gercom.svg" alt="QuantumNET">
-  </a>          
+</p>      
 
 <br/>
 <br/>
