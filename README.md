@@ -85,8 +85,9 @@
   width="45px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-/>
-          
+/>     
+
+<br/>
 <h2 align="center">🌐 Redes Sociais</h2>
 
 <p align="center">
@@ -96,9 +97,7 @@
   <a href="https://www.linkedin.com/in/kewyn-almeida" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>      
-
-<br/>
+</p> 
 <br/>
 
 ### 📊 Statistics
