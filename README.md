@@ -90,7 +90,7 @@
 <br/>
 
 ---
-<h2>🌐 Redes Sociais</h2>
+<h2>🌐 Social Media</h2>
 
 <p>
   <a href="mailto:hallexkewyn@gmail.com" target="_blank">
