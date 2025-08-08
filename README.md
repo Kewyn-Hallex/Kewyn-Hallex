@@ -88,10 +88,10 @@
 />
           
   <h1 align="center">Redes Sociais</h1>
-  <a href="mailto:david.thevares21@outook.com">
+  <a href="mailto:hallexkewyn@gmail.com">
     <img height="30" width="40" src="gmail.svg" alt="Gmail">
   </a>
-  <a href="https://br.linkedin.com/in/t4vares">
+  <a href="https://www.linkedin.com/in/kewyn-almeida">
     <img height="30" width="40" src="linkedin.svg" alt="LinkedIn">
   </a>
   <a href="https://quantumnet.gercom.ufpa.br/">
