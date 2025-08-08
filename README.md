@@ -2,12 +2,11 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Kewyn Halex, tenho 19 anos e sou do Pará. Desde cedo sou apaixonado por tecnologia e essa paixão me levou a cursar Desenvolvimento de Sistemas no ensino superior. Estou sempre buscando aplicar a tecnologia como ferramenta de transformação, seja em iniciativas sociais, educacionais ou no mercado de trabalho.
-Atualmente, compartilho meus aprendizados e projetos aqui no GitHub — sinta-se à vontade para explorar e contribuir!
+My name is Kewyn Halex, I'm 19 years old, and I'm from Pará. I've been passionate about technology since a young age, and this passion led me to pursue a degree in Systems Development. I am always looking for ways to use technology as a tool for transformation, whether in social, educational, or professional initiatives. Currently, I share my learnings and projects here on GitHub—feel free to explore and contribute!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -87,7 +86,7 @@ Atualmente, compartilho meus aprendizados e projetos aqui no GitHub — sinta-se
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 statistics
 
 <p>
   <img 
