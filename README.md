@@ -87,7 +87,16 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
           
-          
+  <h1 align="center">Redes Sociais</h1>
+  <a href="mailto:david.thevares21@outook.com">
+    <img height="30" width="40" src="gmail.svg" alt="Gmail">
+  </a>
+  <a href="https://br.linkedin.com/in/t4vares">
+    <img height="30" width="40" src="linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://quantumnet.gercom.ufpa.br/">
+    <img height="30" width="40" src="gercom.svg" alt="QuantumNET">
+  </a>          
 
 <br/>
 <br/>
@@ -109,5 +118,9 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kewyn-Hallex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayydaviid/sayydaviid/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayydaviid/sayydaviid/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sayydaviid/sayydaviid/output/github-contribution-grid-snake.svg">
+</picture>
