@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋 I'm Kewyn</h1>
-<p align="center">💻 Front-end Developer | 🤖 Automation Enthusiast | 🌐 Web & API Integrator</p>
+<p align="center">💻 Front-end Developer</p>
 
 ---
 
