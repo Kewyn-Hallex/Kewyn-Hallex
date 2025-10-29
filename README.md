@@ -20,11 +20,6 @@
 </p>
 
 <br/>
-
-- JavaScript, PHP, Node.js
-- HTML, CSS, Bootstrap, Tailwind
-- Git
-
 ---
 <h2>🌐 Social Media</h2>
 
