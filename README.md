@@ -22,7 +22,7 @@
 ---
 
 <p align="left">
-  <img src="fullstack developer.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="full.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   
   <div>
     <p><b>Backend Developer | Full Stack</b></p>
