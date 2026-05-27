@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGUc0Xs0IRTIQ/profile-displaybackgroundimage-shrink_350_1400/B4EZz9BhK2GUAY-/0/1773771560842?e=1777507200&v=beta&t=kAagBrbvsyDP6oYL8vkVsYy7aWCv_7z4LhGjbSWMDNQ" alt="Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGUc0Xs0IRTIQ/profile-displaybackgroundimage-shrink_350_1400/B4EZz9BhK2GUAY-/0/1773771560842?e=1781740800&v=beta&t=MqfukkuC3lxhbnpu4hRPeVqnXOfWdAvhWAmcLf6TsPg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
@@ -56,6 +56,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
